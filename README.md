@@ -1,10 +1,5 @@
 # Análisis Funcional — Primer cuatrimestre de 2013
 
-## Equipo docente
-
-- **Clases teóricas:** Roman Sasyk
-- **Clases prácticas:** Carlos di Fiore, Gabriel Carvajal
-
 ## Prácticas
 
 - [Práctica 1: Espacios de Banach.](practica1.pdf)
